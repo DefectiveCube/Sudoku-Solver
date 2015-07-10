@@ -10,3 +10,5 @@ The application checks for the following:
 * Only Square
 
 More advanced strategies are yet-to-be implemented.
+
+To use, just edit the sudoku.txt file using digits where given, and non-digits in undetermined cells. Trailing values will be ignored.
